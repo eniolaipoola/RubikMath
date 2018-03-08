@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RubikMath</string>
+
+    <string name="totalCubes">Enter the value of n for a Rubik cube</string>
+    <string name="condition"> n must be greater than 1</string>
+
+    <string name="cubeNum">The total amount of cube that is needed to construct the Rubik\&#39;s cube is</string>
+    <string name="Result"> Result</string>
+
+    <string name="hiddenCube">Total number of smaller cubes that are hidden is</string>
+    <string name="hidden"> Hidden cube (n-2)^3 </string>
+
+    <string name="faceCube">Total number of cubes that makes up the faces of Rubik\&#39;s cubes are</string>
+    <string name="face"> Face Cube n^3(n-2)^3</string>
+
+    <string name="nextCube"> Next possible rubik cube </string>
+    <string name="next"> (n-2)^2</string>
+    <string name="title_activity_rubik">RubikActivity</string>
+
+    <string name="submit">Submit</string>
+</resources>
